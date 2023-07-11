@@ -21,3 +21,17 @@
 2023/07/11 14:46:36	info	Printed	
 2023/07/11 14:46:36	info	MENU displayed	
 2023/07/11 14:46:37	info	Exit invoked	
+2023/07/11 16:52:32	info	Hello guyss	
+2023/07/11 16:52:32	Warning	Hello guyss	
+2023/07/11 16:52:32	Error	Hello guyss	
+2023/07/11 16:54:00	info	Hello guyss	
+2023/07/11 16:54:00	Warning	Hello guyss	
+2023/07/11 16:54:00	Error	Hello guyss	
+2023/07/11 16:55:40	info	started running	
+2023/07/11 16:55:40	info	MENU displayed	
+2023/07/11 16:55:42	info	Method invoked-getEmployeeDetails 	
+2023/07/11 16:55:42	info	Printed	
+2023/07/11 16:55:42	info	Printed	
+2023/07/11 16:55:42	info	Printed	
+2023/07/11 16:55:42	info	MENU displayed	
+2023/07/11 16:55:44	info	Exit invoked	
