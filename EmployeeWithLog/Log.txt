@@ -1,0 +1,23 @@
+
+2023/07/11 14:42:43	info	Method invoked-getEmployeeDetails 	
+2023/07/11 14:42:43	info	Contents Printed	
+2023/07/11 14:42:43	info	Contents Printed	
+2023/07/11 14:42:43	info	Contents Printed	
+2023/07/11 14:46:02	info	started running	
+2023/07/11 14:46:02	info	MENU displayed	
+2023/07/11 14:46:05	info	Method invoked-getEmployeeDetails 	
+2023/07/11 14:46:05	info	Printed	
+2023/07/11 14:46:05	info	Printed	
+2023/07/11 14:46:05	info	Printed	
+2023/07/11 14:46:05	info	MENU displayed	
+2023/07/11 14:46:06	info	Exit invoked	
+2023/07/11 14:46:27	info	started running	
+2023/07/11 14:46:27	info	MENU displayed	
+2023/07/11 14:46:30	Error	Invalid input n menu	
+2023/07/11 14:46:30	info	MENU displayed	
+2023/07/11 14:46:36	info	Method invoked-getEmployeeDetails 	
+2023/07/11 14:46:36	info	Printed	
+2023/07/11 14:46:36	info	Printed	
+2023/07/11 14:46:36	info	Printed	
+2023/07/11 14:46:36	info	MENU displayed	
+2023/07/11 14:46:37	info	Exit invoked	
